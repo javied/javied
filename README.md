@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Javeed Hussain
-- 👀 I’m interested in ... DATA SCIENCE
-- 🌱 I’m currently learning ... PYTHON AND DATA SCIENCE
-- 💞️ I’m looking to collaborate on ... PROJECTS IN DATA SCIENCE
+- 👀 I’m interested in ... SalesForce
+- 🌱 I’m currently learning ... SalesForce
+- 💞️ I’m looking to collaborate on ... PROJECTS IN Salesforce
 - 📫 How to reach me ... javeedjasualihussain@gmail.com
 
 <!---
